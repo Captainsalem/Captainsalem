@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Captainsalem
-- 👀 I’m interested in ...Python, JavaScipt, NodeJS and Web Development
-- 🌱 I’m currently learning ...C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Everything Nerdy: Code, Hardware, Linux, Maths, Physics, SCI-FI
+- 🌱 I’m currently learning ...Wolfram Mathematica
+- 💞️ I’m looking to collaborate on ... Go & Rust projects
+- 📫 How to reach me ... csalem@tutanota.de
 
 <!---
 Captainsalem/Captainsalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
