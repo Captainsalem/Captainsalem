@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @Captainsalem
 - 👀 I’m interested in ...Everything Nerdy: Code, Hardware, Linux, Maths, Physics, SCI-FI
 - 🌱 I’m currently learning ...LUA and Game Dev (Noob)
