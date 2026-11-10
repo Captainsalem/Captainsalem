@@ -2,7 +2,14 @@
 
 # `> whoami`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&lines=Full+stack+dev+%7C+DevOps+%7C+Databases;Building+a+hacking+game+with+Rust+%2B+Tauri;Crafting+Ghost+themes+%26+tooling;Shipping+things+that+feel+good+to+use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&lines=Full+stack+dev+%7C+DevOps+%7C+Databases;Building+Proton+OS%2C+a+hacking+game+in+Rust+%2B+Tauri;Crafting+Ghost+themes+%26+tooling;Shipping+things+that+feel+good+to+use" alt="Typing SVG" />
+
+<br>
+
+[![Website](https://img.shields.io/badge/geekbits.dev-00FF9C?style=for-the-badge&logo=firefoxbrowser&logoColor=black)](https://geekbits.dev)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.com/csalem)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:artemis55@pm.me)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/ghostcn)
 
 </div>
 
@@ -18,9 +25,9 @@ fn main() {
     let me = Captainsalem {
         role: "Full stack dev & DevOps tinkerer",
         currently_building: vec![
-            "a hacking game simulator (Rust + Tauri)",
+            "Proton OS, a hacking game simulator (Rust + Tauri)",
             "custom Ghost themes",
-            "ghostcn, an npm project, built with a friend",
+            "ghostcn, an npm package, built with J4yJ3ff",
         ],
         ask_me_about: vec!["full stack web", "DevOps", "databases"],
         status: "shipping, not tutorial-hopping",
@@ -30,23 +37,23 @@ fn main() {
 
 ---
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
-| Project | What it is |
-|---|---|
-| 🎮 **[Game name]** | A hacking game simulator built with **Rust** and **Tauri**. [One line on the hook, e.g. terminal-style missions, fake networks, etc.] |
-| 👻 **Custom Ghost themes** | Hand-built themes for the [Ghost](https://ghost.org) publishing platform. [Link to themes or demo] |
-| 📦 **ghostcn** | An npm project I'm building with [friend's name/handle]. [One line on what it does] |
+| | Project | What it is |
+|---|---|---|
+| ![Rust](https://img.shields.io/badge/-000000?style=flat&logo=rust&logoColor=white) | **Proton OS** | A hacking game simulator built with **Rust** and **Tauri**. [One line on the hook: what does the player actually do?] |
+| ![Ghost](https://img.shields.io/badge/-15171A?style=flat&logo=ghost&logoColor=white) | **Custom Ghost themes** | Hand-built themes for the [Ghost](https://ghost.org) publishing platform. [Link to demo or repo] |
+| ![npm](https://img.shields.io/badge/-CB3837?style=flat&logo=npm&logoColor=white) | **[ghostcn](https://www.npmjs.com/package/ghostcn)** | [One line on what it does], built with [@J4yJ3ff](https://github.com/J4yJ3ff). ![npm version](https://img.shields.io/npm/v/ghostcn?style=flat&label=npm&color=CB3837) |
 
-## 💬 Ask Me About
+## Ask Me About
 
-- 🌐 Full stack web development
-- ⚙️ DevOps: CI/CD, Nginx, Terraform, Ansible, Nix
-- 🗄️ Databases: Postgres, MySQL, MongoDB, Redis, Cassandra, Elasticsearch
+- Full stack web development
+- DevOps: CI/CD, Nginx, Terraform, Ansible, Nix
+- Databases: Postgres, MySQL, MongoDB, Redis, Cassandra, Elasticsearch
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**<br>
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
@@ -68,20 +75,15 @@ fn main() {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Captainsalem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-## 📫 Find Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Captainsalem-121011?style=flat&logo=github)](https://github.com/Captainsalem)
-<!-- Add your own: portfolio, X/Twitter, LinkedIn, Ghost site, etc. -->
 
 <div align="center">
 
