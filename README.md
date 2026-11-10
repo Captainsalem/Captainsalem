@@ -41,9 +41,9 @@ fn main() {
 
 | | Project | What it is |
 |---|---|---|
-| ![Rust](https://img.shields.io/badge/-000000?style=flat&logo=rust&logoColor=white) | **Proton OS** | A hacking game simulator built with **Rust** and **Tauri**. [One line on the hook: what does the player actually do?] |
+| ![Rust](https://img.shields.io/badge/-000000?style=flat&logo=rust&logoColor=white) | **Proton OS** | A hacking game simulator built with **Rust** and **Tauri**. |
 | ![Ghost](https://img.shields.io/badge/-15171A?style=flat&logo=ghost&logoColor=white) | **Custom Ghost themes** | Hand-built themes for the [Ghost](https://ghost.org) publishing platform. [Link to demo or repo] |
-| ![npm](https://img.shields.io/badge/-CB3837?style=flat&logo=npm&logoColor=white) | **[ghostcn](https://www.npmjs.com/package/ghostcn)** | [One line on what it does], built with [@J4yJ3ff](https://github.com/J4yJ3ff). ![npm version](https://img.shields.io/npm/v/ghostcn?style=flat&label=npm&color=CB3837) |
+| ![npm](https://img.shields.io/badge/-CB3837?style=flat&logo=npm&logoColor=white) | **[ghostcn](https://www.npmjs.com/package/ghostcn)** | [a package with pre-built components for ghost], built with [@J4yJ3ff](https://github.com/J4yJ3ff). ![npm version](https://img.shields.io/npm/v/ghostcn?style=flat&label=npm&color=CB3837) |
 
 ## Ask Me About
 
